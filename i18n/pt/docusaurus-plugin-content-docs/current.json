@@ -3,6 +3,10 @@
     "message": "Atual",
     "description": "The label for version current"
   },
+  "sidebar.tutorialSidebar.category.From others Wiki": {
+    "message": "De outros Wikis",
+    "description": "The label for category 'From others Wiki' in sidebar 'tutorialSidebar'"
+  },
   "sidebar.tutorialSidebar.category.Wiki (Fandom)": {
     "message": "Wiki (Fandom)",
     "description": "The label for category 'Wiki (Fandom)' in sidebar 'tutorialSidebar'"
