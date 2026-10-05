@@ -18,4 +18,4 @@ Treść tekstowa tłumaczona z Fandom (**CC BY-SA**). Sekcja [Dane z Gry](/game-
 
 ---
 
-Aby poprawić atrybucję, otwórz issue w [repozytorium GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Aby poprawić atrybucję, otwórz issue w [repozytorium GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).

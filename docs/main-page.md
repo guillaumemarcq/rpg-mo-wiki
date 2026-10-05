@@ -15,7 +15,7 @@ This wiki combines three complementary sources to bring together the most comple
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — the community wiki, patiently built by volunteer editors. It provides skill guides, lore, event history, tips and in-depth articles that go far beyond raw data.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — a community database by **bobdylan**, providing a structured view of items, mobs and recipes. The [Database](/database) section of this wiki is built on this source.
 
-This repository is also indexed with [CodeGraph](https://github.com/colbymchenry/codegraph) to make its structure directly explorable by AI tools. If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
+This repository is also indexed with [CodeGraph](https://github.com/colbymchenry/codegraph) to make its structure directly explorable by AI tools. If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 See [Sources & Credits](/sources) for full attribution.
 

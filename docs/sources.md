@@ -52,4 +52,4 @@ The [Useful Links](/liens-utiles) page also catalogs many other community resour
 
 ---
 
-If you're the author of one of these resources and would like an attribution correction, or the removal of your content, feel free to open an issue on this wiki's [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
+If you're the author of one of these resources and would like an attribution correction, or the removal of your content, feel free to open an issue on this wiki's [GitHub repository](https://github.com/guillaumemarcq/rpg-mo-wiki).

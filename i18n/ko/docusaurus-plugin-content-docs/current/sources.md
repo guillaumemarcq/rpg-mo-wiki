@@ -18,4 +18,4 @@ sidebar_position: 5
 
 ---
 
-출처 수정 요청은 [GitHub 저장소](https://github.com/marcqg/rpg-mo-wiki)에서 issue를 열어주세요.
+출처 수정 요청은 [GitHub 저장소](https://github.com/guillaumemarcq/rpg-mo-wiki)에서 issue를 열어주세요.

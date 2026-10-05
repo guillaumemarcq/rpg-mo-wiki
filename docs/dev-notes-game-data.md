@@ -322,4 +322,4 @@ Autres locales (KO/PL/PT) : `_category_.json` traduits statiquement, pages copie
 - **release.js** : [https://data.mo.ee/release.js](https://data.mo.ee/release.js)
 - **mod.js** : [https://data.mo.ee/mod.js](https://data.mo.ee/mod.js)
 - **Spritesheet exemple** : [https://data.mo.ee/sheet/dgweapon32.png](https://data.mo.ee/sheet/dgweapon32.png)
-- **Depot GitHub** : [https://github.com/marcqg/rpg-mo-wiki](https://github.com/marcqg/rpg-mo-wiki)
+- **Depot GitHub** : [https://github.com/guillaumemarcq/rpg-mo-wiki](https://github.com/guillaumemarcq/rpg-mo-wiki)

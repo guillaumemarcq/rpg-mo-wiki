@@ -9,7 +9,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/marcqg/rpg-mo-wiki"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/guillaumemarcq/rpg-mo-wiki"
   },
   "copyright": {
     "message": "Treść zaadaptowana z <a href=\"https://rpg-mo.fandom.com/wiki/Main_Page\">RPG MO Wiki</a> (Fandom), na licencji CC BY-SA. Ta strona nie jest powiązana z Fandom ani twórcami RPG MO.",

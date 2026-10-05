@@ -8,8 +8,8 @@ type Props = WrapperProps<typeof EditThisPageType>;
 
 export default function EditThisPageWrapper(props: Props): JSX.Element {
   const issueUrl = typeof window !== 'undefined'
-    ? `https://github.com/marcqg/rpg-mo-wiki/issues/new?template=error-report.md&title=${encodeURIComponent(`Error on "${document.title}"`)}&body=${encodeURIComponent(`## Page\n\n${window.location.href}\n\n## Description\n\n<!-- Describe the error here -->`)}`
-    : 'https://github.com/marcqg/rpg-mo-wiki/issues/new?template=error-report.md';
+    ? `https://github.com/guillaumemarcq/rpg-mo-wiki/issues/new?template=error-report.md&title=${encodeURIComponent(`Error on "${document.title}"`)}&body=${encodeURIComponent(`## Page\n\n${window.location.href}\n\n## Description\n\n<!-- Describe the error here -->`)}`
+    : 'https://github.com/guillaumemarcq/rpg-mo-wiki/issues/new?template=error-report.md';
 
   return (
     <div style={{display: 'flex', flexWrap: 'wrap', gap: '0.75rem', alignItems: 'center'}}>

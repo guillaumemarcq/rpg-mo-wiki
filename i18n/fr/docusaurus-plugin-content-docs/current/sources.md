@@ -22,4 +22,4 @@ Les guides de Farming, Carte du Monde, etc. proviennent de [rpgmobob.com](https:
 
 ---
 
-Si vous êtes l'auteur de l'une de ces ressources, ouvrez une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Si vous êtes l'auteur de l'une de ces ressources, ouvrez une issue sur le [dépôt GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).

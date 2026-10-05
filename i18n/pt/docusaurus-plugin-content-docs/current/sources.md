@@ -18,4 +18,4 @@ Conteúdo textual traduzido do Fandom (**CC BY-SA**). Seção [Dados do Jogo](/g
 
 ---
 
-Para correção de atribuição, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para correção de atribuição, abra uma issue no [repositório GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).

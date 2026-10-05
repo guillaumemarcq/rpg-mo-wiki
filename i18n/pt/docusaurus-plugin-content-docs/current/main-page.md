@@ -13,7 +13,7 @@ Este wiki combina três fontes complementares para reunir as informações mais 
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — wiki comunitária construída por voluntários. Fornece guias de habilidades, histórico de eventos e artigos detalhados.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — banco de dados comunitário por **bobdylan**. A seção [Database](/database) deste wiki é baseada nesta fonte.
 
-Para contribuir ou reportar erros, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para contribuir ou reportar erros, abra uma issue no [repositório GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 Veja [Fontes e Créditos](/sources) para atribuição completa.
 

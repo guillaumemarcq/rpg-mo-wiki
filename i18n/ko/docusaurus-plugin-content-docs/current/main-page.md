@@ -13,7 +13,7 @@ sidebar_position: 1
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — 자원봉사자들이 구축한 커뮤니티 위키. 스킬 가이드, 이벤트 역사, 팁 등 다양한 정보를 제공합니다.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — **bobdylan**이 만든 커뮤니티 데이터베이스. 이 위키의 [Database](/database) 섹션이 이 소스를 기반으로 합니다.
 
-기여, 오류 신고 또는 콘텐츠 제거 요청은 [GitHub 저장소](https://github.com/marcqg/rpg-mo-wiki)에서 issue를 열어주세요.
+기여, 오류 신고 또는 콘텐츠 제거 요청은 [GitHub 저장소](https://github.com/guillaumemarcq/rpg-mo-wiki)에서 issue를 열어주세요.
 
 ## _RPG MO 위키에 오신걸 환영합니다!_ **RPG MO 란?**
 

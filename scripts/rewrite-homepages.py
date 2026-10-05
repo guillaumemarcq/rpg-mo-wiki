@@ -44,7 +44,7 @@ This wiki combines three complementary sources to bring together the most comple
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — the community wiki, patiently built by volunteer editors. It provides skill guides, lore, event history, tips and in-depth articles that go far beyond raw data.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — a community database by **bobdylan**, providing a structured view of items, mobs and recipes. The [Database](/database) section of this wiki is built on this source.
 
-This repository is also indexed with [CodeGraph](https://github.com/colbymchenry/codegraph) to make its structure directly explorable by AI tools. If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
+This repository is also indexed with [CodeGraph](https://github.com/colbymchenry/codegraph) to make its structure directly explorable by AI tools. If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 See [Sources & Credits](/sources) for full attribution.
 
@@ -100,7 +100,7 @@ Ce wiki combine trois sources complémentaires pour rassembler les informations 
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — le wiki communautaire, patiemment construit par des éditeurs bénévoles. Il fournit des guides de compétences, de l'histoire, des événements, des astuces et des articles détaillés.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — une base de données communautaire par **bobdylan**, offrant une vue structurée des objets, monstres et recettes. La section [Database](/database) de ce wiki est construite sur cette source.
 
-Ce dépôt est également indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph) pour rendre sa structure directement explorable par des outils d'IA. Si tu veux contribuer, signaler une erreur ou demander le retrait d'un contenu, ouvre une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Ce dépôt est également indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph) pour rendre sa structure directement explorable par des outils d'IA. Si tu veux contribuer, signaler une erreur ou demander le retrait d'un contenu, ouvre une issue sur le [dépôt GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 Voir [Sources et remerciements](/sources) pour l'attribution complète.
 
@@ -151,7 +151,7 @@ sidebar_position: 1
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — 자원봉사자들이 구축한 커뮤니티 위키. 스킬 가이드, 이벤트 역사, 팁 등 다양한 정보를 제공합니다.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — **bobdylan**이 만든 커뮤니티 데이터베이스. 이 위키의 [Database](/database) 섹션이 이 소스를 기반으로 합니다.
 
-기여, 오류 신고 또는 콘텐츠 제거 요청은 [GitHub 저장소](https://github.com/marcqg/rpg-mo-wiki)에서 issue를 열어주세요.
+기여, 오류 신고 또는 콘텐츠 제거 요청은 [GitHub 저장소](https://github.com/guillaumemarcq/rpg-mo-wiki)에서 issue를 열어주세요.
 
 ## _RPG MO 위키에 오신걸 환영합니다!_ **RPG MO 란?**
 
@@ -195,7 +195,7 @@ To wiki łączy trzy uzupełniające się źródła, aby zebrać najpełniejsze 
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — wiki społecznościowe zbudowane przez wolontariuszy. Zawiera poradniki, historię wydarzeń i szczegółowe artykuły.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — baza danych społecznościowa autorstwa **bobdylan**. Sekcja [Database](/database) tego wiki jest oparta na tym źródle.
 
-Aby wnieść wkład lub zgłosić błąd, otwórz issue w [repozytorium GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Aby wnieść wkład lub zgłosić błąd, otwórz issue w [repozytorium GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 Zob. [Źródła i podziękowania](/sources) w celu pełnego uznania.
 
@@ -241,7 +241,7 @@ Este wiki combina três fontes complementares para reunir as informações mais 
 - **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — wiki comunitária construída por voluntários. Fornece guias de habilidades, histórico de eventos e artigos detalhados.
 - **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — banco de dados comunitário por **bobdylan**. A seção [Database](/database) deste wiki é baseada nesta fonte.
 
-Para contribuir ou reportar erros, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para contribuir ou reportar erros, abra uma issue no [repositório GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 
 Veja [Fontes e Créditos](/sources) para atribuição completa.
 
@@ -326,7 +326,7 @@ The [Useful Links](/liens-utiles) page also catalogs many other community resour
 
 ---
 
-If you're the author of one of these resources and would like an attribution correction, or the removal of your content, feel free to open an issue on this wiki's [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
+If you're the author of one of these resources and would like an attribution correction, or the removal of your content, feel free to open an issue on this wiki's [GitHub repository](https://github.com/guillaumemarcq/rpg-mo-wiki).
 """
 
 SOURCES_FR = """\
@@ -354,7 +354,7 @@ Les guides de Farming, Carte du Monde, etc. proviennent de [rpgmobob.com](https:
 
 ---
 
-Si vous êtes l'auteur de l'une de ces ressources, ouvrez une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Si vous êtes l'auteur de l'une de ces ressources, ouvrez une issue sur le [dépôt GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 """
 
 SOURCES_KO = """\
@@ -378,7 +378,7 @@ sidebar_position: 5
 
 ---
 
-출처 수정 요청은 [GitHub 저장소](https://github.com/marcqg/rpg-mo-wiki)에서 issue를 열어주세요.
+출처 수정 요청은 [GitHub 저장소](https://github.com/guillaumemarcq/rpg-mo-wiki)에서 issue를 열어주세요.
 """
 
 SOURCES_PL = """\
@@ -402,7 +402,7 @@ Treść tekstowa tłumaczona z Fandom (**CC BY-SA**). Sekcja [Dane z Gry](/game-
 
 ---
 
-Aby poprawić atrybucję, otwórz issue w [repozytorium GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Aby poprawić atrybucję, otwórz issue w [repozytorium GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 """
 
 SOURCES_PT = """\
@@ -426,7 +426,7 @@ Conteúdo textual traduzido do Fandom (**CC BY-SA**). Seção [Dados do Jogo](/g
 
 ---
 
-Para correção de atribuição, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para correção de atribuição, abra uma issue no [repositório GitHub](https://github.com/guillaumemarcq/rpg-mo-wiki).
 """
 
 # ─── Écriture ────────────────────────────────────────────────────────────────

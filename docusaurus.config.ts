@@ -19,13 +19,13 @@ const config: Config = {
   ],
 
   // Set the production url of your site here
-  url: 'https://marcqg.github.io',
+  url: 'https://guillaumemarcq.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/rpg-mo-wiki/',
 
   // GitHub pages deployment config.
-  organizationName: 'marcqg', // GitHub org/user name.
+  organizationName: 'guillaumemarcq', // GitHub org/user name.
   projectName: 'rpg-mo-wiki', // Repo name.
   deploymentBranch: 'gh-pages',
 
@@ -53,7 +53,7 @@ const config: Config = {
         docs: {
           routeBasePath: '/', // le wiki est la page d'accueil du site
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/marcqg/rpg-mo-wiki/tree/main/',
+          editUrl: 'https://github.com/guillaumemarcq/rpg-mo-wiki/tree/main/',
         },
         blog: false,
         theme: {
@@ -86,7 +86,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/marcqg/rpg-mo-wiki',
+          href: 'https://github.com/guillaumemarcq/rpg-mo-wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -104,7 +104,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/marcqg/rpg-mo-wiki',
+              href: 'https://github.com/guillaumemarcq/rpg-mo-wiki',
             },
           ],
         },
